@@ -1,0 +1,14 @@
+{
+    "commentTranslate.hover.enabled": false,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/libmariadb.dll": true,
+    "**/log-core.dll": true,
+    "**/log-core.so": true,
+    "**/announce.exe": true,
+    "**/samp-npc.exe": true,
+    "**/logs": true,
+    "**/*.amx": false
+  },
+    "files.encoding": "windows1251"
+}
