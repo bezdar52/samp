@@ -16,7 +16,6 @@ enum P_DIALOG_IDs {
 
 public OnPlayerRequestClass(playerid, classid)
 {
-	if(!pInfo[playerid][ingame])
 	return 1;
 }
 
